@@ -1,4 +1,8 @@
 .page {
     background-color: #2A2C2F;
-    min-width: 1280px;
+    /* min-width: 1280px; */
+}
+
+* {
+  border: 1px solid #4a4c50;
 }
