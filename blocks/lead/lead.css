@@ -1,0 +1,6 @@
+.lead {
+  display: flex;
+  flex-direction: column;
+  color: #FFFFFF;
+  align-items: center;
+}
