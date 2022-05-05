@@ -2,8 +2,8 @@
   margin: 0;
   font-weight: 400;
   font-size: 12px;
-  line-height: 1;
+  line-height: 1.7;
   letter-spacing: 2px;
   color: #AAAAAA;
-  align-self: end;
+  padding-bottom: 12px;
 }
