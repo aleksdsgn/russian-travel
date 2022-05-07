@@ -5,3 +5,7 @@
   line-height: 28px;
   color: #FFFFFF;
 }
+
+.header__lang-link:hover {
+  color: aqua;
+}
