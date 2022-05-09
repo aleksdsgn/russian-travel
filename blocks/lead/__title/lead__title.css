@@ -7,3 +7,28 @@
   text-align: center;
   padding-bottom: 32px;
 }
+
+@media screen and (max-width: 720px) {
+  .lead__title {
+    max-width: 620px;
+    font-size: 80px;
+    padding-bottom: 26px;
+  }
+}
+
+@media screen and (max-width: 608px) {
+  .lead__title {
+    max-width: 480px;
+    font-size: 60px;
+    padding-bottom: 20px;
+  }
+}
+
+@media screen and (max-width: 480px) {
+  .lead__title {
+    max-width: 330px;
+    font-size: 40px;
+    line-height: 1.1;
+    padding-bottom: 16px;
+  }
+}
