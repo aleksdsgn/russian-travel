@@ -1,3 +1,33 @@
 .cover {
   width: 1184px;
 }
+
+@media screen and (max-width: 1024px) {
+  .cover {
+    width: 1024px;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .cover {
+    width: 768px;
+  }
+}
+
+@media screen and (max-width: 688px) {
+  .cover {
+    width: 688px;
+  }
+}
+
+@media screen and (max-width: 480px) {
+  .cover {
+    width: 480px;
+  }
+}
+
+@media screen and (max-width: 320px) {
+  .cover {
+    width: 320px;
+  }
+}

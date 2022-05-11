@@ -7,3 +7,21 @@
   line-height: 1.06;
   text-align: center;
 }
+
+@media screen and (max-width: 688px) {
+  .cover__title {
+    max-width: 360px;
+    margin-bottom: 24px;
+    font-size: 48px;
+    line-height: 1.08;
+  }
+}
+
+@media screen and (max-width: 480px) {
+  .cover__title {
+    max-width: 288px;
+    margin-bottom: 16px;
+    font-size: 32px;
+    line-height: 1.09;
+  }
+}
