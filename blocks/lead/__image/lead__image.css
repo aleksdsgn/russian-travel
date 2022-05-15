@@ -1,22 +1,4 @@
 .lead__image {
   display: block;
   width: 100%;
-  /* width: 984px; */
-  /* max-width: 984px; */
-  /* height: auto; */
-  /* height: 615px; */
-}
-
-@media screen and (max-width: 1024px) {
-  .lead__image {
-    /* width: 928px; */
-    /* height: 580px; */
-  }
-}
-
-@media screen and (max-width: 1024px) {
-  .lead__image {
-    /* width: 100%; */
-    /* height: auto; */
-  }
 }

@@ -1,9 +1,5 @@
 .lead {
   color: #FFF;
-  /* display: flex; */
-  /* flex-direction: column; */
-  /* align-items: center; */
-  /* width: 1280px; */
   display: grid;
   justify-items: center;
   padding: 0% 48px;

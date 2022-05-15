@@ -4,6 +4,7 @@
   padding: 0;
   list-style-type: none;
   display: grid;
+  justify-content: center;
   grid-template-columns: auto;
   grid-template-rows: auto;
   row-gap: 80px;

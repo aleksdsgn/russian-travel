@@ -1,4 +1,5 @@
 .places__place {
+  margin: 0 auto;
   display: grid;
   grid-template-columns: 460px auto;
   grid-template-rows: auto auto;
@@ -12,11 +13,11 @@
   .places__place {
     grid-template-columns: 440px auto;
     column-gap: 32px;
-    max-width: 928px;
+    max-width: calc(100% - 48px*2);
   }
 }
 
-@media screen and (max-width: 900px) {
+@media screen and (max-width: 990px) {
   .places__place {
     grid-template-columns: 370px auto;
   }
@@ -26,7 +27,7 @@
   .places__place {
     grid-template-columns: 340px auto;
     column-gap: 28px;
-    max-width: 720px;
+    max-width: calc(100% - 24px*2);
   }
 }
 
