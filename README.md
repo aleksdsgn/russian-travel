@@ -9,7 +9,7 @@
 Для построения сеток некоторых блоков используется технология CSS Grid Layout.
 Для других блоков используется CSS Flex.
 
-Посмотреть проект "вживую" :point_right: ["Путешествия по России"](https://aleksdsgn.github.io/russian-travel/)
+Посмотреть проект "вживую" на GitHub Pages :point_right: ["Путешествия по России"](https://aleksdsgn.github.io/russian-travel/)
 
 [^1]: Использование элементов структурной семантики `<header>`, `<section>`, `<figure>`, `<article>`, `<nav>` и `<footer>`.
 [^2]: Проверено на https://validator.w3.org/nu/.
