@@ -9,3 +9,15 @@
   grid-template-rows: auto;
   row-gap: 80px;
 }
+
+@media screen and (max-width: 768px) {
+  .places__list {
+    row-gap: 73px;
+  }
+}
+
+@media screen and (max-width: 408px) {
+  .places__list {
+    row-gap: 50px;
+  }
+}
